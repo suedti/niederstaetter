@@ -29,6 +29,11 @@
                            color: black; 
                            line-height: 100%; 
                            }  
+                           
+                           
+                           
+                           
+                           
                 
                                            
                         span.yshortcuts { border:none; background-color:transparent; color:#000;}
