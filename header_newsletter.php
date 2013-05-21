@@ -33,6 +33,8 @@
                            
                            
                            
+                         
+                           
                            
                 
                                            
@@ -46,7 +48,7 @@
                         a:hover   { color: #3c96e2; text-decoration: underline;}  
                         
                         .single-table {
-margin-bottom: 54px !important;
+margin-bottom: 524px !important;
 }
 
 p.entry-title{	
