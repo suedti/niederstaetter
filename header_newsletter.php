@@ -1,5 +1,3 @@
-
-Notice: Undefined offset: 0 in /Users/pvh/Library/Application Support/Coda 2/Plug-ins/CSScomb.codaplugin/Contents/Resources/1E309925-0E58-4297-A1AA-A699C13910B6/Support Files/csscomb.php on line 1135
 <?php
 /**
  * The Header for our theme.
@@ -13,8 +11,8 @@ Notice: Undefined offset: 0 in /Users/pvh/Library/Application Support/Coda 2/Plu
 ?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Newsletter</title>
     <style type="text/css">
              
                         .ExternalClass {width:100%;} 
@@ -32,24 +30,7 @@ Notice: Undefined offset: 0 in /Users/pvh/Library/Application Support/Coda 2/Plu
                            line-height: 100%; 
                            }  
                 
-                
-                 h1 a {text-decoration: none;
-                           }       
- 
-
-                        a, a:link {
-                           color:#2A5DB0;
-                           text-decoration: underline;
-                           }       
- 
-                        body, #body_style {
-                           min-height:1000px;
-                           background:#f5f5f5;
-                           color:#000;
-                           font-size:12px;
-                           font-family:Helvetica,Arial,  sans-serif;
-                           } 
-                            
+                                           
                         span.yshortcuts { border:none; background-color:transparent; color:#000;}
                         span.yshortcuts:hover,
                         span.yshortcuts:active,
@@ -68,8 +49,6 @@ margin-bottom: 0px;
 	color: #00549f;
 text-transform:uppercase;
 	font-weight: bold;
-
-	
 	font-size: 26px;
 }
 p.news-subtitle{
@@ -90,9 +69,7 @@ p.entry-title a:link, p.entry-title a:visited, p.entry-title a:active{
 	text-decoration: none;
 }
  table.logo-table{
-	                            background-color:#f5f5f5;
-
-	 
+	                            background-color:#f5f5f5;	 
  }
  
  div.entry-content{
